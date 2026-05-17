@@ -1,0 +1,12 @@
+From: billing@secure-paymentalerts.net
+Subject: Payment Successfully Processed
+
+Dear Customer,
+
+Your payment of $850 has been processed successfully.
+If you did not authorize this payment, please review it immediately.
+
+View payment details:
+http://payment-review-secure.xyz/confirm
+
+Payment Support Team

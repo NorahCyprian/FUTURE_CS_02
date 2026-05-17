@@ -1,0 +1,12 @@
+From: alert@secure-bankverify.net
+Subject: Urgent Security Alert
+
+Dear Customer,
+
+We detected suspicious activity in your bank account.
+Please log in immediately to secure your account and avoid temporary suspension.
+
+Secure your account here:
+http://bank-security-check.xyz/login
+
+Bank Security Department

@@ -1,0 +1,12 @@
+From: security@social-mediaverify.net
+Subject: Verify Your Social Media Account
+
+Dear User,
+
+We detected unusual login activity on your account.
+Please verify your account immediately to avoid suspension.
+
+Verify your account here:
+http://socialmedia-secureverify.xyz/login
+
+Social Media Security Team
